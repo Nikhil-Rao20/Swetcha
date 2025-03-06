@@ -1,6 +1,9 @@
 # Swetcha: Automated Harassment Detection for Women Safety
 
 ![Swetcha](proof.png) 
+
+---
+### Watch the demo video: 
 [Watch Sample Video](output_videos/pred_true_1.mp4)
 
 ## 🔍 Overview
