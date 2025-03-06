@@ -1,6 +1,6 @@
 # Swetcha: Automated Harassment Detection for Women Safety
 
-![Swetcha](https://your-image-link-here)  <!-- Add an image or logo if available -->
+![Swetcha](Picture1.png)  <!-- Add an image or logo if available -->
 
 ## 🔍 Overview
 Swetcha is an **AI-powered real-time harassment detection system** designed to enhance women’s safety by leveraging **computer vision, deep learning, and video captioning**. The system seamlessly integrates with **CCTV surveillance networks** to detect suspicious behavior, classify human interactions, and generate real-time alerts to law enforcement.
